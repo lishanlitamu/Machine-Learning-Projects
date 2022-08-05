@@ -1,3 +1,5 @@
 # Machine-Learning-Projects
 
-This is an on-going project. Update is available soon.
+This is an on-going project.
+
+DNN model training is in progress.
